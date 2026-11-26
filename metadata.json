@@ -1,0 +1,6 @@
+{
+  "name": "Kiểm tra 15 phút - Đại số 10: Mệnh đề",
+  "description": "Bài kiểm tra trắc nghiệm trực tuyến môn Toán 10 (GDPT 2018 - Kết nối tri thức), Chương 1 - Bài 1: Mệnh đề, tích hợp đồng hồ đếm ngược, công thức KaTeX và lời giải chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
